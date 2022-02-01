@@ -1,1 +1,12 @@
-site_name: 4Tlabs
+site_name: 4TLabs
+repo_url: 'https://github.com/mauzs/4Tlabs'
+edit_uri: edit/master/docs
+site_description: '4TLabs'
+extra:
+  favicon: 'https://fortinet.com/favicon.ico'
+  social:
+    - type: 'github'
+      link: 'https://github.com/mauzs/4Tlabs'
+theme: readthedocs
+nav:
+- Home: 'index.md'
